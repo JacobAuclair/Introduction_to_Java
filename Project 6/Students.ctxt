@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=arr\ n
+comment1.target=void\ printall(Student[],\ int)
+comment2.params=arr\ n\ name
+comment2.target=void\ firstName(Student[],\ int,\ java.lang.String)
+comment3.params=arr\ n\ name
+comment3.target=void\ lastName(Student[],\ int,\ java.lang.String)
+comment4.params=arr\ n\ a\ b
+comment4.target=void\ printtInterval(Student[],\ int,\ int,\ int)
+comment5.params=arr\ n
+comment5.target=void\ sortlowarray(Student[],\ int)
+comment6.params=arr\ n
+comment6.target=void\ sorthigharray(Student[],\ int)
+comment7.params=
+comment7.target=void\ helpme()
+numComments=8
